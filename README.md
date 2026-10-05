@@ -1,7 +1,3 @@
----
----
----
-
 <h1 align="center">Johan Bodén</h1>
 <table>
   <tbody>
